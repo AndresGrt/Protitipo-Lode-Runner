@@ -1,0 +1,15 @@
+Tokens
+tokens separadores
+tokens operadores
+literales
+operaciones transitivas y no transitivas
+Declaracion y expresiones
+strong typing
+type casting o conversion de diferentes tipos de numeros
+implicita o explicita
+
+
+Variables
+
+Glosario:
+double, short,bit,OnEnable,OnAplictionPause,LateUpdate
